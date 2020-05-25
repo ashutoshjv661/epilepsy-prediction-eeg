@@ -1,0 +1,8 @@
+American Epilepsy dataset Which can be downloaded from the below link :
+
+https://www.kaggle.com/c/seizure-prediction
+
+There is another Dataset from CHB-MIT which can be downloaded from the below link : 
+
+https://physionet.org/content/chbmit/1.0.0/
+
